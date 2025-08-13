@@ -1,2 +1,12 @@
-# secure-password-gen
-A command-line tool that generates strong, customizable passwords. Powerful for enhancing security in apps or personal use—simple code but prevents weak passwords.
+# Secure Password Generator
+
+A simple Python tool to create strong passwords.
+
+## Usage
+Run `python password_gen.py` for a default password. Customize via function parameters.
+
+## Installation
+No dependencies needed (uses standard library).
+
+## License
+MIT
